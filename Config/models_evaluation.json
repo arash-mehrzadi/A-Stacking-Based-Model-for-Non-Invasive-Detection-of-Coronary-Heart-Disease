@@ -1,0 +1,12 @@
+{
+  "datapath_processed": "data/Z-Alizadeh sani dataset_preprocessed.xlsx",
+  "datapath_rowdata": "data/Z-Alizadeh sani dataset_rowdata.xlsx",
+  "datapath_RFECV": "data/RFECV_fs_dataset.xlsx",
+  "datapath_XGB": "data/XGB_fs_dataset.xlsx",
+  "bigdatapath_processed": "data/big_data_Pre_Processed.xlsx",
+  "label": "Cath",
+  "test_size": 0.33,
+  "random_state": 42,
+  "test_num": 3,
+  "models_list": ["RF","GNB","ADB","ET","GB","MLP","XGB","LR"]
+}

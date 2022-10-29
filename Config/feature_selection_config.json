@@ -1,0 +1,6 @@
+{
+  "data_path": "data/Z-Alizadeh sani dataset_preprocessed.xlsx",
+  "label": "Cath",
+  "k_fold_list": [5,10,15,20,25,30,35,40,45,50,17,22],
+  "methods_list": ["CHI2","RFECV","XGB"]
+}
