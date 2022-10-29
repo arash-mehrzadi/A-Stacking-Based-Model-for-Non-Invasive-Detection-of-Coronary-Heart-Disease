@@ -6,7 +6,7 @@
 
 ## Perspectives
 
-<div style="font-size: 13px; font-family: verdana; text-align: justify;" class="introduction">this project has four main parts consist of Data Pre-processing, Feature selection, Proposed methodology and Experimental results. Functions are created separately for all of mentioned parts and you can use them according to ‘run.ipunb’ notebook guidance. This project tries to induct you with different methodologies in simple way and open your mind to make new opportunities. If you have any problem to understanding codes, please contact us throw this email address:</div>
+<div style="font-size: 13px; font-family: verdana; text-align: justify;" class="introduction">this project has four main parts consist of Data Pre-processing, Feature selection, Proposed methodology and Experimental results. Functions are created separately for all of mentioned parts and you can use them according to ‘all_functions_run.ipynb’ notebook guidance. This project tries to induct you with different methodologies in simple way and open your mind to make new opportunities. If you have any problem to understanding codes, please contact us throw this email address:</div>
 <a href="mailto:mehrzadiarash@gmail.com">mehrzadiarash@gmail.com</a> 
 
 ## results
@@ -27,4 +27,8 @@
 ## Resources
 <div style="font-size: 13px; font-family: verdana; text-align: justify;" class="introduction">Sadly, an official source code is unavailable and we can’t evaluate our implementation with official method but according to evaluations, our implementation gains a close result to official results that was reported in mentioned paper. You can get mentioned paper in ‘‘<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639">IEEE Access</a>’’ journal and its topic is “A Stacking-Based Model for Non-Invasive Detection of Coronary Heart Disease”. Link → ('<a href="https://ieeexplore.ieee.org/document/9005221">paper</a>’). To access the datasets related to this research, you can check following chart and visit mentioned links.</div>
 
+| Dataset                       | Link                    |
+| ----------------------------- |:------------------------:|
+|Z-Alizadeh Sani Data Set       |<a href="https://archive.ics.uci.edu/ml/datasets/Z-Alizadeh+Sani">Link</a>|
+|Cardiovascular Disease dataset (big data) |<a href="https://www.kaggle.com/sulianova/cardiovascular-disease-dataset">Link</a>|
 
