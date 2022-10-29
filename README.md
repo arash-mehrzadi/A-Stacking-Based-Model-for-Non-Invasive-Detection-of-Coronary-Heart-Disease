@@ -6,7 +6,7 @@
 
 ## Perspectives
 
-<div style="font-size: 13px; font-family: verdana; text-align: justify;" class="introduction">this project has four main parts consist of Data Pre-processing, Feature selection, Proposed methodology and Experimental results. Functions are created separately for all of mentioned parts and you can use them according to ‘all_functions_run.ipynb’ notebook guidance. This project tries to induct you with different methodologies in simple way and open your mind to make new opportunities. If you have any problem to understanding codes, please contact us throw this email address:</div>
+<div style="font-size: 13px; font-family: verdana; text-align: justify;" class="introduction">this project has four main parts consist of Data Pre-processing, Feature selection, Proposed methodology and Experimental results. Functions are created separately for all of mentioned parts and you can use them according to ‘all_functions_run.ipynb’ notebook guidance. This project tries to induct you with different methodologies in simple way and open your mind to make new opportunities. If you have any problem to understanding codes, please contact us through this email address:</div>
 <a href="mailto:mehrzadiarash@gmail.com">mehrzadiarash@gmail.com</a> 
 
 ## results
